@@ -35,9 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-¶ The Copy of a Letter Describing the wonderful
-woorke of God in deliuering a
-Mayden within the City
+
 1. ¶ To his very
 friend Maister J. D.
 
@@ -84,32 +82,28 @@ There are 6 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|10||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|3||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|10||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|3||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -117,21 +111,19 @@ There are 6 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__add__|8||
-|2.|__body__|1||
-|3.|__closer__|2||
-|4.|__date__|3||
-|5.|__dateline__|2||
-|6.|__desc__|6||
-|7.|__div__|3| @__type__ (3) : title_page (1), dedication (1), text (1)|
-|8.|__front__|1||
-|9.|__g__|111| @__ref__ (111) : char:EOLhyphen (67), char:cmbAbbrStroke (30), char:EOLunhyphen (13), char:punc (1)|
-|10.|__gap__|6| @__reason__ (6) : illegible (6)  •  @__resp__ (6) : #OXF (6)  •  @__extent__ (6) : 1 word (2), 1 letter (4)|
-|11.|__head__|2||
-|12.|__hi__|4| @__rend__ (3) : sup (3)|
-|13.|__item__|3||
-|14.|__l__|7||
-|15.|__lg__|1||
-|16.|__list__|1||
-|17.|__p__|18||
-|18.|__pb__|19| @__facs__ (19) : tcp:20333:1 (2), tcp:20333:2 (2), tcp:20333:3 (2), tcp:20333:4 (2), tcp:20333:5 (2), tcp:20333:6 (2), tcp:20333:7 (2), tcp:20333:8 (2), tcp:20333:9 (2), tcp:20333:10 (1)|
-|19.|__signed__|2||
+|2.|__closer__|2||
+|3.|__date__|3||
+|4.|__dateline__|2||
+|5.|__desc__|6||
+|6.|__div__|3| @__type__ (3) : title_page (1), dedication (1), text (1)|
+|7.|__g__|111| @__ref__ (111) : char:EOLhyphen (67), char:cmbAbbrStroke (30), char:EOLunhyphen (13), char:punc (1)|
+|8.|__gap__|6| @__reason__ (6) : illegible (6)  •  @__resp__ (6) : #OXF (6)  •  @__extent__ (6) : 1 word (2), 1 letter (4)|
+|9.|__head__|2||
+|10.|__hi__|4| @__rend__ (3) : sup (3)|
+|11.|__item__|3||
+|12.|__l__|7||
+|13.|__lg__|1||
+|14.|__list__|1||
+|15.|__p__|18||
+|16.|__pb__|19| @__facs__ (19) : tcp:20333:1 (2), tcp:20333:2 (2), tcp:20333:3 (2), tcp:20333:4 (2), tcp:20333:5 (2), tcp:20333:6 (2), tcp:20333:7 (2), tcp:20333:8 (2), tcp:20333:9 (2), tcp:20333:10 (1)|
+|17.|__signed__|2||
